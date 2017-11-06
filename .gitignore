@@ -1,0 +1,4 @@
+# never commit node packages from npm
+#(my "node_modules/" might not work on other systems)
+
+node_modules
